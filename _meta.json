@@ -1,0 +1,4 @@
+{
+  "name": "daily-stock-picker",
+  "description": "每日美股智能选股工具。基于 Finnhub API 获取实时行情、新闻和分析师评级，筛选5只具有上涨潜力的股票。"
+}
